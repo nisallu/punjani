@@ -1,4 +1,4 @@
- name: aminRDP
+ name: amazonRDP
 
 on: workflow_dispatch
 
